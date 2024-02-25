@@ -1,2 +1,2 @@
 # mslearn-ai-services
-Lab files for Azure AI Services modules
+Lab files for Azure AI Services modules. Avoid private key info
